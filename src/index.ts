@@ -1,4 +1,2 @@
-import { StringUtils } from './string-utils';
-import { TestClass } from './test-class';
-
-export { StringUtils, TestClass };
+export * from './string-utils';
+export * from './number-utils';
