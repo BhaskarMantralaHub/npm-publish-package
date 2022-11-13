@@ -4,7 +4,7 @@ export default {
   input: 'build/index.d.ts',
   output: {
     format: 'cjs',
-    file: 'index.d.js',
+    file: 'index.d.ts',
   },
   plugins: [dts()]
 };

@@ -1,3 +1,6 @@
 node_modules
 .idea
 build
+index.d.js
+index.js
+index.d.ts
