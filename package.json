@@ -1,5 +1,5 @@
 {
-  "name": "npm-publish-package",
+  "name": "@bhaskarmantralahub/npm-publish-package",
   "version": "1.0.0",
   "description": "npm-publish-package",
   "main": "index.js",
@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/BhaskarMantralaHub/npm-publish-package/issues"
   },
-  "homepage": "https://github.com/BhaskarMantralaHub/npm-publish-package#readme"
+  "homepage": "https://github.com/BhaskarMantralaHub/npm-publish-package#readme",
+  "dependencies": {
+    "npm": "^9.1.1"
+  }
 }
