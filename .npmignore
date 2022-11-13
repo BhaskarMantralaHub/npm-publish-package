@@ -1,0 +1,8 @@
+node_modules
+.idea
+build
+.env
+rollup.config.mjs
+tsconfig.json
+.eslintignore
+.eslintrc
