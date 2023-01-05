@@ -27,6 +27,13 @@ npm adduser
 bhaskarmantralahub
 ```
 
+```npm 
+
+//Will open up a browser for npm login
+npm login
+
+```
+
 ### other npm commands
 
 ```npm
