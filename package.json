@@ -6,6 +6,9 @@
   "scripts": {
     "prepublishOnly": "tsc && rollup -c"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BhaskarMantralaHub/npm-publish-package.git"
