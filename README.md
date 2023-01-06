@@ -72,7 +72,14 @@ Example: `@bhaskarmantralahub/test-package`
     }
 ```
 
+### List down all dependencies
 
+```npm
+npm ls 
+
+//with dependencies
+npm ls --depth
+```
 
 
 
